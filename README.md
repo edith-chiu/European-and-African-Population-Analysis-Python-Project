@@ -1,7 +1,7 @@
 # European-and-African-Population-Analysis-Python-Project
 
-Population Analysis in Europe and Africa (Python Data Analysis)
-Project Overview
+## Population Analysis in Europe and Africa (Python Data Analysis)
+## Project Overview
 
 This project explores global population data using Python for data analysis and visualisation. The objective was to analyse population trends across regions, identify key patterns in population growth, and visualise insights using charts.
 
@@ -9,7 +9,7 @@ The analysis focuses on comparing population statistics across countries and reg
 
 This project was completed as part of a data analyst technical assessment, demonstrating practical skills in data cleaning, analysis, and visualisation.
 
-Tools & Technologies
+## Tools & Technologies
 
 Python
 
@@ -21,7 +21,7 @@ Matplotlib – data visualisation
 
 Jupyter Notebook – analysis environment
 
-Dataset
+## Dataset
 
 The dataset contains population statistics for countries across multiple regions and years. The data was used to explore population distribution, growth patterns, and regional comparisons.
 
@@ -67,7 +67,7 @@ Calculated population growth in Europe between 2000 and 2010.
 
 Highlighted the top 5 countries with the largest population increase.
 
-Visualisations
+## Visualisations
 
 The project includes several visualisations to communicate insights:
 
@@ -89,7 +89,7 @@ Line chart illustrating population growth trends for the top five European count
 
 ![Dashboard Preview](q5.jpg)
 
-Key Insights
+## Key Insights
 
 Population distribution varies significantly across countries within the same region.
 
@@ -99,7 +99,7 @@ European population growth between 2000 and 2010 was concentrated in a few key c
 
 Data visualisation helps highlight regional trends and large population differences.
 
-Skills Demonstrated
+## Skills Demonstrated
 
 Data cleaning and preparation using Pandas
 
@@ -111,6 +111,6 @@ Data visualisation using Matplotlib
 
 Communicating insights through charts and summaries
 
-Conclusion
+## Conclusion
 
 This project demonstrates the use of Python for exploratory data analysis, transforming raw population data into meaningful insights through statistical analysis and visualisation.
