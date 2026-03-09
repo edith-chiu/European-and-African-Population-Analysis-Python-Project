@@ -75,19 +75,19 @@ Population Distribution in Africa (2010)
 
 Bar chart showing the population size of African countries, highlighting the variation in population distribution across the region.
 
-![Dashboard Preview](q2.png)
+![Dashboard Preview](q2.jpg)
 
 Countries with Population Above 1 Billion (2007)
 
 A bubble/dot chart highlighting countries with extremely large populations.
 
-![Dashboard Preview](q3.png)
+![Dashboard Preview](q4.jpg)
 
 Population Growth in Europe (2000–2010)
 
 Line chart illustrating population growth trends for the top five European countries with the largest population increase.
 
-![Dashboard Preview](q5.png)
+![Dashboard Preview](q5.jpg)
 
 Key Insights
 
