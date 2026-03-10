@@ -114,3 +114,15 @@ Communicating insights through charts and summaries
 ## Conclusion
 
 This project demonstrates the use of Python for exploratory data analysis, transforming raw population data into meaningful insights through statistical analysis and visualisation.
+
+## Business Recommendations
+
+Although this analysis focuses on population data exploration, several insights can support strategic planning:
+
+• Countries with rapidly growing populations may require increased investment in infrastructure, healthcare, and education services.
+
+• Governments and organisations can use population trends to anticipate future resource demands.
+
+• Population distribution insights can support urban planning and economic development strategies.
+
+• Data visualisation can help policymakers and organisations better understand demographic changes over time.
